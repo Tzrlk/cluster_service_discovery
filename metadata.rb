@@ -1,3 +1,4 @@
+name              "cluster_service_discovery"
 maintainer        "Flip Kromer and Infochimps, Inc"
 maintainer_email  "info@infochimps.org"
 license           "Apache 2.0"
